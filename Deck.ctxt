@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\n\ creates\ empty\ array\ to\ symbolize\ the\ deck\n
+comment1.params=cardVal
+comment1.target=void\ Remove(int)
+comment1.text=\n\ adds\ card\ to\ deck\ array\ to\ show\ that\ it\ has\ been\ picked\n
+comment2.params=cardNum\ numDecks
+comment2.target=boolean\ Valid(int,\ int)
+comment2.text=\n\ checks\ to\ see\ if\ card\ has\ been\ used,\ if\ it\ has\ it\ isn't\ valid\n
+comment3.params=
+comment3.target=void\ Shuffle()
+comment3.text=\n\ empties\ the\ deck\ arraylist\n
+numComments=4

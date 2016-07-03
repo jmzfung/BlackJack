@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=cardNumber
+comment0.target=Card(int)
+comment0.text=\n\ @param\ cardNumber\n\ creates\ card\ objects\ and\ all\ information\ about\ the\ card\ is\ found\ through\ it's\ number\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ @return\ name\n\ @param\ the\ card's\ number\n\ based\ on\ the\ number\ of\ the\ card,\ 1-\ 52,\ the\ name\ of\ the\ card\ is\ returned\n
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment2.text=\n\ @return\ suit\n
+numComments=3
